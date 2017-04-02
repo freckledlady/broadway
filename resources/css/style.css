@@ -26,3 +26,9 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
